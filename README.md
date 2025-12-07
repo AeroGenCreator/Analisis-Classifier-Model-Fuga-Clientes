@@ -4,6 +4,8 @@
 
 ![Image Alt](https://github.com/AeroGenCreator/Analisis-Classifier-Model-Fuga-Clientes/blob/main/1.png)
 
+- Acceso al dashboard (Server gratuito, puede tardar en cargar la informacion la primera vez): [Dashboard](https://analisis-classifier-model-fuga-clientes.onrender.com)
+
 💡 Descripción General del Proyecto
 
 En Beta Bank, se identificó una preocupante tasa de fuga de clientes (abandono del banco). Dado que es más rentable retener a los clientes existentes que adquirir nuevos, el objetivo principal de este proyecto fue desarrollar un modelo de machine learning para predecir si un cliente dejará el banco en el futuro cercano.
