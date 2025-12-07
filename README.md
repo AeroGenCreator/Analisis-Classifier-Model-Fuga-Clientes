@@ -67,8 +67,8 @@ Proceso de Optimización:
 
 El modelo final (un Bosque Aleatorio optimizado) superó exitosamente el umbral mínimo requerido en el conjunto de prueba.
 Métrica	Valor Obtenido	Umbral Mínimo	Resultado
-F1 Score	[0.594488188976378]	≥0.59	Éxito
-AUC-ROC	[0.8546618030655062]
+F1 Score	`0.594488188976378`	≥0.59	Éxito
+AUC-ROC	`0.8546618030655062`
 
 Por ejemplo, un valor de AUC-ROC cercano a 1 indica una excelente capacidad de discriminación, lo que complementa un F1 Score alto.
 🚀 Conclusiones
