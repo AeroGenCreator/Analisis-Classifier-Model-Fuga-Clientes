@@ -4,7 +4,7 @@
 
 ![Image Alt](https://github.com/AeroGenCreator/Analisis-Classifier-Model-Fuga-Clientes/blob/main/1.png)
 
-- Acceso al dashboard (Server gratuito, puede tardar en cargar la informacion la primera vez): [Dashboard](https://analisis-classifier-model-fuga-clientes.onrender.com)
+- Acceso al dashboard (Server gratuito, puede tardar en cargar la informacion la primera vez) [Dashboard](https://analisis-classifier-model-fuga-clientes.onrender.com)
 
 💡 Descripción General del Proyecto
 
